@@ -4,6 +4,12 @@ Made using TMDB API and largely based on tutorial from Sonny Sangha on Youtube
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+
+![Trending Page](./screenshots/Screen Shot 2022-06-29 at 11.29.39 AM.png?raw=true)
+
+![Horror Page w/ Account Icon Hover](./screenshots/Screen Shot 2022-06-29 at 11.30.06 AM.png?raw=true)
+
 ## Getting Started
 
 First, run the development server:
