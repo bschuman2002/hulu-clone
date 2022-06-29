@@ -6,9 +6,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Screenshots
 
-![Trending Page](./screenshots/Screen Shot 2022-06-29 at 11.29.39 AM.png?raw=true)
+### Trending Page
 
-![Horror Page w/ Account Icon Hover](./screenshots/Screen Shot 2022-06-29 at 11.30.06 AM.png?raw=true)
+![Trending Page](<./screenshots/Screen Shot 2022-06-29 at 11.29.39 AM.png?raw=true>)
+
+### Horror Page w/ Account Icon Hover
+
+![Horror Page w/ Account Icon Hover](<./screenshots/Screen Shot 2022-06-29 at 11.30.06 AM.png?raw=true>)
 
 ## Getting Started
 
