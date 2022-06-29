@@ -1,3 +1,7 @@
+# Hulu Clone
+
+Made using TMDB API and largely based on tutorial from Sonny Sangha on Youtube
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
